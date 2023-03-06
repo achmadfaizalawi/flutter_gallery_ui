@@ -1,4 +1,4 @@
-# Flutter Galley Application
+# Flutter Gallery Application
 This is a task for my flutter development bootcamp.
 
 Subject 1: flutter_week4_assets (development/v1).
