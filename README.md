@@ -1,16 +1,18 @@
-# flutter_galley_app
+# Flutter Gallery Application
+This is a task for my flutter development bootcamp.
 
-A new Flutter project.
+Subject 1: flutter_week4_assets (development/v1).
 
-## Getting Started
+Subject 2: flutter_week5_dialog (development/v2).
 
-This project is a starting point for a Flutter application.
+## About Branch
+- **master**: The first branch in application development.
+- **development/v1**: Development of the homepage, others images page, and preview images page.
+- **development/v2**: Added a show on click image dialog and added a user profile sheet.
 
-A few resources to get you started if this is your first Flutter project:
+## Output Application
+<img src="https://github.com/achmadfaizalawi/flutter_gallery_app/blob/development/v1/assets/output_screenshots/homepage.png?raw=true" width="400" height="800"/> <img src="https://github.com/achmadfaizalawi/flutter_gallery_app/blob/development/v2/assets/output_screenshots/bottom_sheets_home.png?raw=true" width="400" height="800"/> 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src="https://github.com/achmadfaizalawi/flutter_gallery_app/blob/development/v1/assets/output_screenshots/preview_images_page.png?raw=true" width="400" height="800"/> <img src="https://github.com/achmadfaizalawi/flutter_gallery_app/blob/development/v2/assets/output_screenshots/alert_preview_images.png?raw=true" width="400" height="800"/>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/achmadfaizalawi/flutter_gallery_app/blob/development/v1/assets/output_screenshots/others_images_page.png?raw=true" width="400" height="800"/>
