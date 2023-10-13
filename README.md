@@ -1,10 +1,6 @@
 # Flutter Gallery Application
 This is a task for my flutter development bootcamp.
 
-Subject 1: flutter_week4_assets (development/v1).
-
-Subject 2: flutter_week5_dialog (development/v2).
-
 ## About Branch
 - **master**: The first branch in application development.
 - **development/v1**: Development of the homepage, others images page, and preview images page.
