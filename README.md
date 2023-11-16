@@ -7,7 +7,7 @@ This gallery application was created to study the process of slicing UI from ima
 1. Clone this project:
 
    ```bash
-   git clone https://github.com/achmadfaizalawi/flutter_gallery_app.git
+   git clone https://github.com/achmadfaizalawi/flutter_gallery_ui.git
 
 2. Open the project in a Flutter IDE, such as Visual Studio Code or Android Studio.
 
